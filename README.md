@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Anshul+%F0%9F%91%8B;Full-Stack+%26+Agentic+AI+Engineer;I+build+multi-agent+systems" alt="Hi, I'm Anshul"/>
+<a href="https://www.anshulsingh.pro"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Anshul+%F0%9F%91%8B;Full-Stack+%26+Agentic+AI+Engineer;I+build+multi-agent+systems" alt="Hi, I'm Anshul"/></a>
 
 <p>
   I build <b>multi-agent systems</b>, <b>real-time WebSocket pipelines</b>, and <b>enterprise React apps</b>.<br/>
