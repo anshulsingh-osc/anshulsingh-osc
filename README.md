@@ -1,9 +1,11 @@
 <div align="center">
 
-<a href="https://www.anshulsingh.pro"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=56&lines=Hi%2C+I'm+Anshul+%F0%9F%91%8B;Full-Stack+%26+Agentic+AI+Engineer;I+build+multi-agent+systems" alt="Hi, I'm Anshul"/></a>
+<h1>Hey, I'm Anshul 👋</h1>
+
+<p>⚡ Full-Stack Engineer &nbsp;·&nbsp; 🤖 Agentic AI Engineer</p>
 
 <p>
-  I build <b>multi-agent systems</b>, <b>real-time WebSocket pipelines</b>, and <b>enterprise React apps</b>.<br/>
+  I build multi-agent systems, real-time WebSocket pipelines, and enterprise React apps.<br/>
   <sub>Senior Analyst at Accenture · 5 years · Noida, India</sub>
 </p>
 
@@ -11,10 +13,9 @@
 <a href="https://linkedin.com/in/anshul-singh03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
 <a href="mailto:reachouttoanshul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://cal.com/anshul-singh-tqhxbm"><img src="https://img.shields.io/badge/Book_a_call-6E40C9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNyAxMmgtNXY1aDV2LTV6TTE2IDF2Mkg4VjFINnYySDVjLTEuMTEgMC0xLjk5MC45LTEuOTkgMkwzIDE5YzAgMS4xLjg5IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJoLTFWMWgtMnptMyAxOEg1VjhoMTR2MTF6Ii8%2BPC9zdmc%2B" alt="Book a call"/></a>
+<br/><br/>
 
 </div>
-
----
 
 ### 🧠 What I work on
 
